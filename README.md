@@ -6,9 +6,7 @@ A simple http interface for AutoHotkey.
 
 The recommended approach for installation is to use [ahkpm][].
 
-1. To install: `ahkpm install gh:joshuacc/simple-http`
-2. To add the `Include` statement to the top of your script:
-   `ahkpm include gh:joshuacc/simple-http --file my-script.ahk`
+`ahkpm install gh:joshuacc/simple-http`
 
 ## Usage
 
