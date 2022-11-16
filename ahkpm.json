@@ -1,0 +1,16 @@
+{
+  "name": "simple-http",
+  "version": "1.0.0",
+  "description": "A simple http interface for AutoHotkey",
+  "repository": "https://github.com/joshuacc/simple-http",
+  "website": "https://github.com/joshuacc/simple-http",
+  "license": "MIT",
+  "issueTracker": "https://github.com/joshuacc/simple-http/issues",
+  "include": "simple-http.ahk",
+  "author": {
+    "name": "Joshua Clanton",
+    "email": "",
+    "website": "https://joshuaclanton.dev"
+  },
+  "dependencies": {}
+}
